@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-26",
+  "dive": 134,
+  "source": [
+    "https://krilliontoday.com/answers/2026-11-26",
+    "https://krillionquestions.com/"
+  ],
+  "questions": [
+    {
+      "cat": "GENERAL KNOWLEDGE",
+      "q": "Name a magazine",
+      "a": {
+        "Popular Electronics": 100,
+        "Elektor Computing": 85,
+        "Houston Life": 85,
+        "Logic Problems": 85,
+        "Official Nintendo Magazine": 60,
+        "Scientific American Mind": 60,
+        "Architectural Digest": 30,
+        "The New Yorker": 30,
+        "National Geographic": 10,
+        "Time": 10
+      }
+    },
+    {
+      "cat": "FOOD & DRINK",
+      "q": "Name a one-word food or drink containing a double letter (like coffee)",
+      "a": {
+        "Mettigel": 100,
+        "Cucciolone": 85,
+        "Guarnaccino": 85,
+        "Raffiuoli": 85,
+        "Ciabatta": 60,
+        "Kiwiberry": 60,
+        "Cannoli": 30,
+        "Gnocchi": 30,
+        "Coffee": 10,
+        "Apple": 10
+      }
+    },
+    {
+      "cat": "SPORTS",
+      "q": "Name a piece of information you can see on a sports scoreboard",
+      "a": {
+        "Out-of-town scores": 100,
+        "Pop time": 85,
+        "Lunch score": 85,
+        "Catch of the match": 85,
+        "Save percentage": 60,
+        "False start": 60,
+        "Shot clock": 30,
+        "Overtime": 30,
+        "Score": 10,
+        "Clock": 10
+      }
+    },
+    {
+      "cat": "GEOGRAPHY",
+      "q": "Name a country where elephants live in the wild",
+      "a": {
+        "Eritrea": 100,
+        "Eswatini": 85,
+        "Benin": 85,
+        "Burkina Faso": 85,
+        "Bhutan": 60,
+        "Cambodia": 60,
+        "Botswana": 30,
+        "Sri Lanka": 30,
+        "Kenya": 10,
+        "India": 10
+      }
+    },
+    {
+      "cat": "TV & ENTERTAINMENT",
+      "q": "Name a TV show that has a spin-off series",
+      "a": {
+        "Strange Love": 100,
+        "Father, Dear Father": 85,
+        "Chain Reaction": 85,
+        "Indonesian Idol": 85,
+        "Inspector Morse": 60,
+        "Farscape": 60,
+        "Adventure Time": 30,
+        "The Office": 30,
+        "Breaking Bad": 10,
+        "Game of Thrones": 10
+      }
+    },
+    {
+      "cat": "GEOGRAPHY",
+      "q": "Name a river over 50 miles long (about 80 km)",
+      "a": {
+        "Hassayampa River": 100,
+        "Brumado River": 85,
+        "Aa River": 85,
+        "Field River": 85,
+        "Dordogne": 60,
+        "Tennessee River": 60,
+        "Danube": 30,
+        "Columbia River": 30,
+        "Amazon": 10,
+        "Nile": 10
+      }
+    },
+    {
+      "cat": "TECHNOLOGY",
+      "q": "Name a type of device with a built-in microphone",
+      "a": {
+        "Dancing flower": 100,
+        "Bluetooth beanie": 85,
+        "Pilot oxygen mask": 85,
+        "Ultrasonic leak detector": 85,
+        "Smart glasses": 60,
+        "Action camera": 60,
+        "Baby monitor": 30,
+        "Intercom": 30,
+        "Phone": 10,
+        "Laptop": 10
+      }
+    }
+  ]
+}
